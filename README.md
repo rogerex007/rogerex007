@@ -2,7 +2,7 @@
 
 ### 🚀 Ingeniero DevSecOps | Cloud & CI/CD Specialist | Automation Enthusiast
 
-Soy un Ingeniero de sistemas con sólida experiencia en **DevOps, automatización, infraestructura en la nube y gobierno técnico** dentro del ecosistema financiero.  
+Soy un Ingeniero de sistemas con sólida experiencia en **DevOps, automatización, infraestructura en la nube y gobierno técnico**
 Mi propósito es **optimizar la entrega de software** a través de pipelines inteligentes, prácticas seguras y estrategias de mejora continua.
 
 ---
