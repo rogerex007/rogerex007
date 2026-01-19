@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mí
 
-Soy Ingeniero Industrial con experiencia en **DevOps, automatización, infraestructura en la nube y gobierno técnico**, trabajando actualmente en **Banistmo y Nequi**.  
+Soy Ingeniero de sistemas con experiencia en **DevOps, automatización, infraestructura en la nube y gobierno técnico**, trabajando actualmente en **Banistmo y Nequi**.  
 Apasionado por la **automatización inteligente**, la **seguridad en pipelines CI/CD** y el **análisis de métricas DORA**.
 
 💡 Me motiva diseñar ecosistemas donde **la calidad, la velocidad y la seguridad coexistan**.
