@@ -97,7 +97,7 @@ Custom Azure DevOps extension for **automating database changes in CI/CD**, incl
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rogerex007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Roger's GitHub stats"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rogerex007&theme=tokyonight" alt="Roger's GitHub activity summary"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerex007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages in public GitHub repositories"/>
 
 <br/>
