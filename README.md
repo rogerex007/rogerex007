@@ -1,66 +1,138 @@
 <div align="center">
 
-# Hi, I'm Roger Mesa 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1220,50:1D4ED8,100:06B6D4&text=Roger%20Mesa&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Security&descAlignY=60&descSize=19&animation=fadeIn" alt="Roger Mesa — DevOps, DevSecOps and Cloud Security"/>
 
-### DevOps & DevSecOps Engineer · AWS Cloud · Cloud Security · Platform Engineering
+**Cloud & Platform Engineering · Security by Design · Automation First**
 
-**Building secure, reliable and automated cloud platforms.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-mesa-475329199)
-[![GitHub](https://img.shields.io/badge/GitHub-rogerex007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rogerex007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-mesa-475329199)
+[![GitHub](https://img.shields.io/badge/GitHub-rogerex007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogerex007)
+![Location](https://img.shields.io/badge/Based%20in-Colombia-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 About me
 
-I'm a systems engineer focused on **DevOps, DevSecOps and cloud infrastructure**, with experience delivering automation and security practices for **financial and banking platforms**.
+I'm a **DevOps / DevSecOps engineer** focused on building **secure, reliable and automated cloud platforms**. My professional experience includes cloud engineering and delivery automation in the **banking and fintech** industry.
 
-I work across the software delivery lifecycle: designing CI/CD pipelines, provisioning infrastructure as code, securing container and serverless workloads, integrating application security checks, and improving operational observability.
+I design CI/CD strategies, automate infrastructure, integrate security controls throughout the SDLC, and make delivery performance measurable through observability and engineering metrics.
 
-My focus is to make security **part of engineering workflows**, not an afterthought. I'm also exploring **AI-assisted automation** and the use of agent-based tooling to make engineering operations more effective.
+> **My approach:** Security should be built into the platform and development workflow—not bolted on at the end.
 
-📍 Colombia · 🌎 Open to remote opportunities
+- ☁️ **Cloud:** AWS, container platforms and serverless architectures
+- 🔐 **Security:** Shift-left DevSecOps, IaC scanning, secret detection, SAST and DAST
+- ⚙️ **Engineering:** CI/CD standardization, reusable templates, Terraform and CloudFormation
+- 📊 **Reliability:** Observability, deployment metrics and operational improvement
+- 🤖 **Exploring:** AI-assisted engineering and agent-based automation
 
-## What I work on
+## 🧰 Tech stack
 
-| Area | Experience |
-| --- | --- |
-| **Cloud & architecture** | AWS: ECS/Fargate, EKS, Lambda, API Gateway, S3, ECR, IAM, Secrets Manager, CloudWatch, CloudFront, WAF |
-| **DevOps & platform engineering** | Azure DevOps, GitHub Actions, Jenkins, Docker, Kubernetes, reusable pipelines and deployment strategies |
-| **Infrastructure as Code** | Terraform, AWS CloudFormation, infrastructure validation and standardization |
-| **DevSecOps & cloud security** | Checkmarx AST (SAST/DAST), SonarQube/SonarCloud, Trivy, Checkov, Gitleaks, Fluid Attacks, OWASP practices |
-| **Observability & delivery metrics** | CloudWatch, Prometheus, Grafana, AWS Athena/Glue/QuickSight, DORA metrics |
-| **Engineering & automation** | Python, Java, Node.js, TypeScript, Bash, Liquibase/Flyway, API integrations |
+<div align="center">
 
-## Selected projects
+**Cloud · Containers · Infrastructure as Code**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux&theme=dark" alt="AWS, Docker, Kubernetes, Terraform and Linux"/>
+
+**CI/CD · Programming · Automation**
+
+<img src="https://skillicons.dev/icons?i=githubactions,jenkins,git,python,java,ts,nodejs,bash&theme=dark" alt="GitHub Actions, Jenkins, Git, Python, Java, TypeScript, Node.js and Bash"/>
+
+**Monitoring · Quality · Databases**
+
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,mysql,postgres,github&theme=dark" alt="Prometheus, Grafana, MySQL, PostgreSQL and GitHub"/>
+
+<br/>
+
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-AST-2563EB?style=flat-square)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square)
+![Checkov](https://img.shields.io/badge/Checkov-IaC%20Security-334155?style=flat-square)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-Secret%20Scanning-0F766E?style=flat-square)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</div>
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ [Interactive DevSecOps Lab](https://github.com/rogerex007/interactive-devsecops-lab)
-An interactive security dashboard and CI/CD workflow generator covering **SAST, SCA and DAST** with tools such as Semgrep, Trivy and OWASP ZAP. Demonstrates how security testing can be embedded into developer workflows.
+
+Interactive security dashboard and CI/CD workflow generator to bring **SAST, SCA and DAST** into developer workflows.
+
+**Stack:** React · Express · Semgrep · Trivy · OWASP ZAP · GitHub Actions
+
+</td>
+<td width="50%" valign="top">
 
 ### ☁️ [CloudOps Arena](https://github.com/rogerex007/cloudops-arena)
-A hands-on **AWS and DevOps GameDay platform** with Terraform labs, GitHub Actions-based evaluations, OIDC integration, controlled execution environments and evidence-based scoring. Includes a FastAPI backend, a React/TypeScript interface and documented security boundaries.
 
-> **Status:** evolving MVP / learning platform — not presented as a production-ready SaaS.
+Hands-on AWS and DevOps GameDay platform with **Terraform labs, GitHub OIDC, isolated execution and evidence-based evaluation**.
 
-### ⚙️ [DevOps Retention Policy](https://github.com/rogerex007/DevOps-Retention-Policy)
-A repository focused on Azure DevOps retention policies and delivery-process automation.
+**Stack:** Python · FastAPI · React · Terraform · AWS · GitHub Actions
 
-## Engineering interests
+<sub>Active MVP / learning platform</sub>
 
-- **Shift-left security:** making security checks repeatable and actionable inside CI/CD.
-- **Cloud security:** least privilege, secret management, policy validation and safer deployment patterns.
-- **Platform engineering:** self-service tooling, reusable templates and developer experience.
-- **Observability:** measurable reliability, traceability and delivery performance.
-- **AI + automation:** practical, controlled use of AI tools and agent workflows for engineering tasks.
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-## Let's connect
+### 🗄️ [Liquibase Azure DevOps Extension](https://github.com/rogerex007/liquibase-azd-extention)
 
-I'm interested in exchanging ideas about **DevOps, DevSecOps, AWS, Cloud Security and platform automation**, especially where security and developer productivity meet.
+Custom Azure DevOps extension for **automating database changes in CI/CD**, including Liquibase commands, AWS Secrets Manager integration, JDBC connector management, validation, snapshots, rollback workflows and detailed execution logging.
 
-**[Connect with me on LinkedIn](https://www.linkedin.com/in/roger-mesa-475329199)**
+**Stack:** TypeScript · Azure DevOps · Liquibase / Liquibase Pro · AWS Secrets Manager · JFrog Artifactory
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub insights
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rogerex007&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Roger's GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerex007&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages in public GitHub repositories"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=rogerex007&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rogerex007&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+<sub>GitHub widgets use public activity and third-party rendering services. They may not include private contributions and can occasionally be unavailable.</sub>
+
+</div>
+
+## 🎯 Areas I care about
+
+| Focus | What I'm building toward |
+|:--|:--|
+| 🔐 **Cloud Security & DevSecOps** | Secure-by-default pipelines, least-privilege access, automated security checks |
+| 🏗️ **Platform Engineering** | Reusable delivery foundations, infrastructure standards and self-service |
+| 📈 **Observability & DORA** | Better delivery insights, reliability signals and continuous improvement |
+| 🤖 **AI-assisted automation** | Practical, reviewable engineering workflows with clear execution boundaries |
 
 ---
 
-<div align="center"><sub>Automate with purpose · Build with security · Improve continuously</sub></div>
+<div align="center">
+
+### 🤝 Let's connect
+
+Interested in **DevOps, DevSecOps, AWS, Cloud Security or platform engineering**? Let's exchange ideas.
+
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roger-mesa-475329199)
+
+*Automate with purpose · Build with security · Improve continuously*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0B1220,50:1D4ED8,100:06B6D4" alt="Decorative footer"/>
+
+</div>
